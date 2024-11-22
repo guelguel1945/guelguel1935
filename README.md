@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :guelguel1945
+### boas vindas ao meu perfil :guelguel1945
 Meu nome é Miguel Araujo de Freitas Cavalcante
 
 - Estou estudando na [Alura](https://www.alura.com.br)
